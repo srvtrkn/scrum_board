@@ -1,5 +1,6 @@
 {
-  "name": "board",
+  "name": "scrum_board",
+  "author": "servet erkan",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
